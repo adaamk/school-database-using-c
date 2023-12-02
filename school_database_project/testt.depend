@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1694914375 source:c:\users\adam\downloads\amit\project c\testt\main.c
+	<stdio.h>
+	<stdlib.h>
+	"STD.h"
+	"SDB.h"
+
+1694914375 c:\users\adam\downloads\amit\project c\testt\std.h
+
+1694914375 c:\users\adam\downloads\amit\project c\testt\sdb.h
+
+1694915748 source:c:\users\adam\downloads\amit\project c\testt\sdb.c
+	"STD.h"
+	"SDB.h"
+
+1694914375 source:c:\users\adam\downloads\amit\project c\school_amit_c_project\main.c
+	<stdio.h>
+	<stdlib.h>
+	"STD.h"
+	"SDB.h"
+
+1694914375 c:\users\adam\downloads\amit\project c\school_amit_c_project\std.h
+
+1694914375 c:\users\adam\downloads\amit\project c\school_amit_c_project\sdb.h
+
+1695139465 source:c:\users\adam\downloads\amit\project c\school_amit_c_project\sdb.c
+	"STD.h"
+	"SDB.h"
+	<stdio.h>
+
+1695131203 source:c:\users\adam\downloads\amit\project c\school_amit_c_project\sdbapp.c
+	"STD.h"
+	"SDB.h"
+
